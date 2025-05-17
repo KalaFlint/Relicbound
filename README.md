@@ -1,2 +1,2 @@
 # Relicbound
-RPG-Dungeon crawler using Kitbash's Secrets of Luminara
+RPG-Dungeon crawler demo using Kitbash's Secrets of Luminara
